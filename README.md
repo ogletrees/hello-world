@@ -20,12 +20,16 @@ Let's quote
 > Quote
 
 All done
+
 \ escapes
+
 \*star
 
-code
-``` some code
-```
+```javascript
+function test() {
+ console.log("look ma’, no spaces");
+}
+````
 
 how about check boxes
 - [x] do this
